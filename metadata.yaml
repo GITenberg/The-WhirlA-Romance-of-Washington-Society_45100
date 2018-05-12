@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43099
     wikipedia: http://www.gutenberg.org/ebooks/author/7754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45100#The-WhirlA-Romance-of-Washington-Society
 gutenberg_issued: '2014-03-09'
 gutenberg_type: Text
 identifiers:
