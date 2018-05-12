@@ -1,0 +1,41 @@
+_repo: The-WhirlA-Romance-of-Washington-Society_45100
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+  - agent_name: Justice, Martin
+    aliases:
+    - Justine, Martin
+    - Justice, B. Martin
+    gutenberg_agent_id: '37259'
+    url: http://www.gutenberg.org/2009/agents/37259
+covers:
+- cover_type: archival
+  image_path: 45100-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Davis, Foxcroft
+    birthdate: 1860
+    deathdate: 1916
+    gutenberg_agent_id: '43099'
+    url: http://www.gutenberg.org/2009/agents/43099
+    wikipedia: http://www.gutenberg.org/ebooks/author/7754
+description: ''
+gutenberg_issued: '2014-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45100'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- Fiction'
+- !lcsh 'Socialites -- Fiction'
+- !lcc 'PS'
+title: 'The Whirl: A Romance of Washington Society'
+url: http://www.gutenberg.org/ebooks/45100
